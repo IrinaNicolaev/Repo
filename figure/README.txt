@@ -1,6 +1,6 @@
 This subdirectory contains 5 plots figures:
--`Figure1.png`: Bar plot
--`Figure2a.png`: Box plot & Strip plot
--`Figure2b.png`: Violin plot
--`Figure3.png`: Scatter plot
--`Figure4.png`: Heatmap
+1.`Figure1.png`
+2.`Figure2a.png`
+3.`Figure2b.png`
+4.`Figure3.png`
+5.`Figure4.png`
